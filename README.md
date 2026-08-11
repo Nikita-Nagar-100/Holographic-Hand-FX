@@ -90,3 +90,5 @@ B.Tech CSE (AI & ML)
 ## ⭐ Show Your Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.
+
+Security dependency update verified.
